@@ -1,2 +1,2 @@
-# Bukkit-Archive
-Bukkit Archive
+# Minecraft Archive
+Minecraft Archive
